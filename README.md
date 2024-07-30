@@ -9,6 +9,7 @@
 ## Skills: 
 - C#, Unity
 - C++, OpenGL, Unreal Engine
+- Blender, 3DS Max
 - HTML & CSS, Javascript, Construct 3
 - SQL
 - Python
