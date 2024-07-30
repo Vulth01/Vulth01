@@ -13,7 +13,7 @@
 - Java
 - Delphi
 
-### View My [Work](https://vulth-01.github.io):
+### View my work [here](https://vulth-01.github.io)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vulth01)](https://github.com/anuraghazra/github-readme-stats)
