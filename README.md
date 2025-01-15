@@ -1,7 +1,7 @@
 # Damien Harwood
-### Software + Game Developer
+### Software & Game Developer
 
-*I am a dedicated graduate of game design and development with a passion for problem solving in mathematics, logic and programming.*
+*A passionate graduate of game design and development*
 
 ### View my work [here](https://vulth-01.github.io)
 
@@ -9,7 +9,7 @@
 - C#, Unity
 - C++, OpenGL, Unreal Engine
 - Blender, 3DS Max
-- HTML & CSS, Javascript, Construct 3
+- Javascript, HTML & CSS, Construct 3
 - SQL
 - Python
 - Java
