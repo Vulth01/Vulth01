@@ -4,9 +4,9 @@
 *A passionate graduate of game design and development*
 
 ### View my work here:
-### [Portfolio](https://vulth-01.github.io)
-### [LeetCode:](https://leetcode.com/u/Vulth/)
-### [Codewars:](https://www.codewars.com/users/Vulth)
+### [• Portfolio](https://vulth-01.github.io)
+### [• LeetCode](https://leetcode.com/u/Vulth/)
+### [• Codewars](https://www.codewars.com/users/Vulth)
 
 ## Skills: 
 - C#, Unity
