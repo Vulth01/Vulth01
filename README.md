@@ -18,3 +18,4 @@
 - Java
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vulth01&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vulth01)](https://github.com/vulth01/github-readme-stats)
