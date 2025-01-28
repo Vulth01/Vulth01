@@ -17,5 +17,9 @@
 - Python
 - Java
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vulth01&layout=pie&theme=algolia)](https://github.com/vulth01/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vulth01&theme=algolia&show_icons=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats) 
+  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vulth01&layout=pie&theme=algolia)](https://github.com/vulth01/github-readme-stats) 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vulth01&theme=algolia&show_icons=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats) 
 
