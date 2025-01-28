@@ -21,5 +21,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vulth01&layout=pie&theme=algolia)](https://github.com/vulth01/github-readme-stats) 
 
-[![Vulth's GitHub stats](https://github-readme-stats.vercel.app/api?username=vulth01&theme=algolia&show_icons=true&rank_icon=github)](https://github.com/vulth01/github-readme-stats) 
+[![Vulth's GitHub stats](https://github-readme-stats.vercel.app/api?username=vulth01&theme=algolia&show_icons=true&rank_icon=github&include_all_commits=true&custom_title=My%20Github%20Stats:&ring_color=ffaded&title_color=ffaded)](https://github.com/vulth01/github-readme-stats) 
 
