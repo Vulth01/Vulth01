@@ -1,5 +1,5 @@
 # Damien Harwood
-### Software & Game Developer
+### Software & Game (Engine) Developer
 
 *A passionate graduate of game design and development*
 
